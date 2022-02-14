@@ -58,6 +58,12 @@
     display: block;
     opacity: .2;
 }
+.video-popup{
+        width: 35rem !important;
+    }
+    .video-popup img{
+        max-width: 35rem !important;
+    }
 @media screen and (max-width:768px) {
     .wizard > .steps > ul > li{
         width: 20% !important;
@@ -69,7 +75,7 @@
         width: 17rem !important;
     }
     .video-popup img{
-        width: 17rem !important;
+        max-width: 17rem !important;
     }
 }
 .wizard,
