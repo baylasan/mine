@@ -62,6 +62,15 @@
     .wizard > .steps > ul > li{
         width: 20% !important;
     }
+    .contain{
+        margin:1rem !important;
+    }
+    .video-popup{
+        width: 17rem !important;
+    }
+    .video-popup img{
+        width: 17rem !important;
+    }
 }
 .wizard,
 .tabcontrol
