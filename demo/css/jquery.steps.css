@@ -64,6 +64,9 @@
     .video-popup img{
         max-width: 35rem !important;
     }
+.contain{
+        margin:3rem !important;
+    }
 @media screen and (max-width:768px) {
     .wizard > .steps > ul > li{
         width: 20% !important;
@@ -72,10 +75,11 @@
         margin:1rem !important;
     }
     .video-popup{
-        width: 17rem !important;
+            width: 20.5rem !important;
+    margin-top: 27%;
     }
     .video-popup img{
-        max-width: 17rem !important;
+        max-width:21rem !important;
     }
 }
 .wizard,
